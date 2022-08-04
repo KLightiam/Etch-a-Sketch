@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+}
+
+.container{
+    /* width: 900px; */
+    display: flex;
+    border: 2px solid rgb(25, 25, 25);
+    flex-wrap: wrap;
+    margin-left: auto;
+    margin-right: auto;
+    /* background-color: rgb(25, 25, 25); */
+    /* height:850px; */
+}
